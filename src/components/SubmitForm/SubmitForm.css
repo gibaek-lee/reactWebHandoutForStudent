@@ -1,0 +1,15 @@
+.SubmitForm {
+  height: 50px;
+  border-style: solid;
+  border-width: thin;
+  border-top-width: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.SubmitForm button {
+  width: 135px;
+  height: 40px;
+  margin-right: 10px;
+}

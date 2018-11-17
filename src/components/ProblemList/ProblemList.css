@@ -1,0 +1,9 @@
+.ProblemList {
+    list-style-type: none;
+    border-style: solid;
+    margin: 0;
+    padding: 10px;
+    border-width: thin;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

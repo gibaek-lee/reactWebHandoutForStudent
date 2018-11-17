@@ -1,0 +1,9 @@
+.ResultList {
+    list-style-type: none;
+    width: 150px;
+    border-style: solid;
+    margin: 0;
+    border-width: thin;
+    border-left-width: 0;
+    padding: 10px;
+}
