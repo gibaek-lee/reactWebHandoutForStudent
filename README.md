@@ -1,12 +1,12 @@
 # Web Handout for Students
-Work for web handout for students.
+Work for student web handout
 
 ![](./video/webHandout.gif)
 
 ## Dev stack
-Front Page: React
-Ajax Request: Axios
-Asynchronous Process Management: async/await
+- Front Page: React
+- Ajax Request: Axios
+- Asynchronous Process Management: async/await
 
 ## Function
 1. Check answer on the input box, radio and text type.
@@ -17,19 +17,19 @@ Asynchronous Process Management: async/await
 
 ## Analysis
 
-### Misson Analysis
+- Misson Analysis
 <p align="center">
-  <img width="80%" src="./image/missionAnalysis.png" />
+  <img width="70%" src="./image/missionAnalysis.png" />
 </p>
 
-### Components Construction
+- Components Construction
 <p align="center">
-  <img width="80%" src="./image/componentAnalysis.png" />
+  <img width="70%" src="./image/componentAnalysis.png" />
 </p>
 
-### State and Props of Components Hierarchy
+- State and Props of Components Hierarchy
 <p align="center">
-  <img width="80%" src="./image/componentHierarchy.png" />
+  <img width="70%" src="./image/componentHierarchy.png" />
 </p>
 
 ## To Do
